@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  m_GroupName: Enemies
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f7bd5c7516cdd2844ab9ea5e6b33f3d9
+  m_SerializeEntries:
+  - m_GUID: cce79774f64669a4493522de04f9432f
+    m_Address: Assets/Source/Minion (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - creatureLevelOne
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71f27be0523ec6842814ccb7faedff6c
+    m_Address: Assets/Source/Minion (2) 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - creatureLevelTen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bf118ed979ccfb479dc0b03475c11da
+    m_Address: Assets/Source/Minion (2) 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - creatureLevelFifteen
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3a8262c4cf23864459dd8dfd5b564662, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1c5f8f589993d704b91c23b6e482c48d, type: 2}
+    - {fileID: 11400000, guid: 423bc81b43b3bfb47b37270c2c62f623, type: 2}

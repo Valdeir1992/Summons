@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ff4684c44f91904ab8bc1e8f2151274, type: 3}
+  m_Name: Distance_03_attack
+  m_EditorClassIdentifier: 
+  _nextBehaviour: {fileID: 11400000, guid: eaf1643b5bca3814baad67a4f8385236, type: 2}
+  _maxDistance: 0.6

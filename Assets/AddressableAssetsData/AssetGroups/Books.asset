@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Books
+  m_EditorClassIdentifier: 
+  m_GroupName: Books
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 420e1369a672c2d479c53ddd460c42e4
+  m_SerializeEntries:
+  - m_GUID: 7d8a26ef707b0ac4c96e34238b277f9d
+    m_Address: Assets/Source/Prefabs/Book.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - books
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfcd60ce66a7591478cdd135dc09fbbb
+    m_Address: Assets/Source/Prefabs/Book (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - books
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9c9bb89302a5ba4389f1d4cd3c24bed
+    m_Address: Assets/Source/Prefabs/Book (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - books
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51edaaa317030bb448b24524b0d17bd6
+    m_Address: Assets/Source/Prefabs/Book (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - books
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3a8262c4cf23864459dd8dfd5b564662, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ad7f8145b7425df41a8d38492dd811d9, type: 2}
+    - {fileID: 11400000, guid: f5426da28cab75549ac3d9603969f7a2, type: 2}

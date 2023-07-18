@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Heros
+  m_EditorClassIdentifier: 
+  m_GroupName: Heros
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fcc4afbb3d2399f4cbd3c277dae9eb15
+  m_SerializeEntries:
+  - m_GUID: 70e365c9ab1651345b01e12d78a2e485
+    m_Address: Assets/Source/Knight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - heros
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2be7697575cae5544802458b40fe4a82
+    m_Address: Assets/Source/Mage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - heros
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3f5d927bb982d94db1d5ba3f4be24ac
+    m_Address: Assets/Source/Archer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - heros
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3a8262c4cf23864459dd8dfd5b564662, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8a7d2e9089f7337489143c8ad6ad448d, type: 2}
+    - {fileID: 11400000, guid: 6be66d1513fbba6478a9bea55883817d, type: 2}
